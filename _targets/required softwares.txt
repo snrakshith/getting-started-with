@@ -1,0 +1,9 @@
+Dependencies:
+    - 
+DevDependencies:
+    - parcel
+    - netlify-cli
+
+
+
+    
