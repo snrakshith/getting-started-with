@@ -1,2 +1,2 @@
-# getting-started-with
-a guides to various technologies
+
+# A guide to various technologies
