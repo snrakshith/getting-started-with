@@ -1,2 +1,2 @@
 
-# A guide to various technologies
+# A guide to create a open source software in javascripts
