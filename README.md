@@ -1,2 +1,1 @@
-
-# A guide to create a open source software in javascripts
+# A guide to create cool open source software .
