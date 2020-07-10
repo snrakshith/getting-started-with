@@ -1,0 +1,34 @@
+# Learn X `Language`
+
+- Basic Env Setup
+- Write a Basic Hello World Program
+- Comments in the Language
+- How to Execute the Program
+- Write onlyone liner programs
+- Learn about 3 stages in Prgram
+  - Input
+  - Logic Processing
+  - Output
+- Get to know about External Resources
+  - Doc's
+  - Stack overflow
+  - Cheatsheets
+- Learn about:
+  - Conditional Logic Exectution
+  - Repetative Logic Exectution
+  - Code Abstraction through:
+    - Classes
+    - Functions
+- Get to know about:
+  - Build system of the language
+  - Code Modularity
+  - Package Manager of the Language
+  - Install 3rd party packages
+  - Make a Network Request
+  - Error Handling
+- Learn about `Bare Bones` of the Language
+  - BuiltIn Functions
+- 3 T's :
+  - Tips
+  - Tricks
+  - Tools
