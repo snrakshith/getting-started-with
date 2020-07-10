@@ -28,7 +28,18 @@
   - Error Handling
 - Learn about `Bare Bones` of the Language
   - BuiltIn Functions
-- 3 T's :
+- 3 T's : `( These 3T's are only about Productivity )`
   - Tips
   - Tricks
   - Tools
+- Package Profile:
+  - Semver
+  - Author
+  - Package Stars and Forks
+  - Good Documentation
+  - Community around the `tool`
+  - Market Traction
+  - Resource to go through
+    - Udemy
+    - YouTube
+  - License
