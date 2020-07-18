@@ -1,3 +1,0 @@
-Browser ( Transpile to JS )
-LLVM
-JVM
